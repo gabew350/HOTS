@@ -1,0 +1,13 @@
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\bin\Debug\netcoreapp3.1\payrollApplication.exe
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\bin\Debug\netcoreapp3.1\payrollApplication.deps.json
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\bin\Debug\netcoreapp3.1\payrollApplication.runtimeconfig.json
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\bin\Debug\netcoreapp3.1\payrollApplication.runtimeconfig.dev.json
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\bin\Debug\netcoreapp3.1\payrollApplication.dll
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\bin\Debug\netcoreapp3.1\payrollApplication.pdb
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\obj\Debug\netcoreapp3.1\payrollApplication.csprojAssemblyReference.cache
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\obj\Debug\netcoreapp3.1\payrollApplication.AssemblyInfoInputs.cache
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\obj\Debug\netcoreapp3.1\payrollApplication.AssemblyInfo.cs
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\obj\Debug\netcoreapp3.1\payrollApplication.csproj.CoreCompileInputs.cache
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\obj\Debug\netcoreapp3.1\payrollApplication.dll
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\obj\Debug\netcoreapp3.1\payrollApplication.pdb
+C:\Users\gabew\OneDrive\Desktop\HOTS\addressBook\payrollApplication\obj\Debug\netcoreapp3.1\payrollApplication.genruntimeconfig.cache
