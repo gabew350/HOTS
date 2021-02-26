@@ -29,6 +29,5 @@ public class Program
             Console.Write("\nHouse Rent 20 % of Basic Salary : " + HRA);
             Console.Write("\nGross Salary : " + Gross_Salary);
             }
-    
         }
  }

@@ -1,0 +1,5 @@
+C:\Users\gabew\OneDrive\Desktop\HOTS\CardDesignerHOT10\CardDesignerHOT10\obj\Debug\CardDesignerHOT10.csprojAssemblyReference.cache
+C:\Users\gabew\OneDrive\Desktop\HOTS\CardDesignerHOT10\CardDesignerHOT10\obj\Debug\CardDesignerHOT10.Form1.resources
+C:\Users\gabew\OneDrive\Desktop\HOTS\CardDesignerHOT10\CardDesignerHOT10\obj\Debug\CardDesignerHOT10.Properties.Resources.resources
+C:\Users\gabew\OneDrive\Desktop\HOTS\CardDesignerHOT10\CardDesignerHOT10\obj\Debug\CardDesignerHOT10.csproj.GenerateResource.cache
+C:\Users\gabew\OneDrive\Desktop\HOTS\CardDesignerHOT10\CardDesignerHOT10\obj\Debug\CardDesignerHOT10.csproj.CoreCompileInputs.cache
